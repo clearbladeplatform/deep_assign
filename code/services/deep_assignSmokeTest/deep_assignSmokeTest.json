@@ -1,0 +1,12 @@
+{
+    "current_version": 1,
+    "dependencies": "log,deep_assign",
+    "logging_enabled": "false",
+    "name": "deep_assignSmokeTest",
+    "params": [],
+    "permissions": {
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "deep_assignSmokeTest.js"
+}
